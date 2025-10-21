@@ -19,7 +19,6 @@ Real-time AI system for face mask detection and recognition using Flask, OpenCV,
 ---
 
 ## ⚙️ System Architecture
-![Architecture Diagram](images/architecture.png) <!-- optional -->
 1. Browser captures video feed (via WebRTC)  
 2. Flask backend processes frame using OpenCV  
 3. AI models detect and recognize face  
@@ -36,7 +35,3 @@ Real-time AI system for face mask detection and recognition using Flask, OpenCV,
 - Accuracy: ~92%  
 - Input size: 224×224 pixels  
 
-
-```bash
-git clone https://github.com/your-username/Face-Mask-Detection-Recognition.git
-cd Face-Mask-Detection-Recognition
