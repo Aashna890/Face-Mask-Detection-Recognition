@@ -1,18 +1,14 @@
-# Virtual environments
 venv/
 .venv/
 
-# Dataset folders
 dataset/with_mask/
 dataset/without_mask/
 known_faces/
 
-# Model weights and encodings
 *.h5
 *.pkl
 *.model
 
-# Python cache and system files
 __pycache__/
 .DS_Store
 *.log
