@@ -81,7 +81,7 @@ face-mask-recognition/
 ### 1. Clone
  
 ```bash
-git clone https://github.com/your-username/face-mask-recognition.git
+git clone https://github.com/Aashna890/face-mask-recognition.git
 cd face-mask-recognition
 ```
  
